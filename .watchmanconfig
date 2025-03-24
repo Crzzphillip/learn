@@ -1,0 +1,1 @@
+{"ignore_dirs":["node_modules",".git",".expo",".next","dist","build","web-build","coverage",".turbo",".vercel","android","ios"],"fsevents_latency":0.05,"settle":5000,"root_files":true,"watch_project_ignore":["node_modules",".git",".expo",".next"]}
